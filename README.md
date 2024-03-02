@@ -32,7 +32,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+![ezgif com-video-to-gif-converter](https://github.com/AKolari/Codepath-Wordle/assets/90071560/c7833922-434f-40fc-a057-f4dc48cf6264)
 
 
 GIF created with eZGif
