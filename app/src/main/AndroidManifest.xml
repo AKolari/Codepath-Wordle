@@ -15,6 +15,22 @@
         <activity
             android:name=".MainActivity"
             android:exported="true">
+
+
+        </activity>
+        <activity
+            android:name=".PopUpActivity"
+            android:exported="true"
+
+            >
+
+        </activity>
+
+        <activity
+            android:name=".StartUp"
+            android:exported="true"
+
+            >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
