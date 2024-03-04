@@ -27,13 +27,18 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [X] The user is unable to input an invalid word as the submit button is disabled when the word is invalid
+* [x] Developed two extra activities
+* [x] Implemented multiple activity transitions using Intents
+* [x] User submits their guess by pressing enter
+* [x] Submitting a guess disables the view and stops the submission
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
 
-![ezgif com-video-to-gif-converter](https://github.com/AKolari/Codepath-Wordle/assets/90071560/c7833922-434f-40fc-a057-f4dc48cf6264)
+![ezgif com-optimize](https://github.com/AKolari/Codepath-Wordle/assets/90071560/e114f788-4722-48c9-9bce-d042873da816)
+
 
 
 GIF created with eZGif
